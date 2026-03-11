@@ -53,7 +53,7 @@ export default function ComingSoonPage() {
               <p className="text-lg mt-4 md:text-xl text-muted-foreground leading-relaxed text-pretty">
               Em breve, você poderá conhecer melhor nosso trabalho e descobrir produtos que nascem do encontro entre design, economia circular e saber artesanal.</p>
               <p className="text-lg mt-4 md:text-xl text-muted-foreground leading-relaxed text-pretty">
-              Enquanto o site não é lançado, nossas lojas estão prontas para atender voce.
+              Enquanto o site não é lançado, nossas lojas estão prontas para atender você.
             </p>
           </div>
 
