@@ -10,27 +10,27 @@ export default function ComingSoonPage() {
   return (
     <main className="min-h-screen bg-background flex flex-col">
       {/* Header com Logo/Nome */}
-      <header className="w-full py-6 px-4 border-b border-border">
+      {/* <header className="w-full py-6 px-4 border-b border-border">
         <div className="max-w-5xl mx-auto">
           <span className="text-xl font-semibold tracking-tight text-foreground">
             Instituto Tidelli
           </span>
         </div>
-      </header>
+      </header> */}
 
       {/* Conteúdo Principal */}
       <section className="flex-1 flex flex-col items-center justify-center px-4 py-12">
         <div className="max-w-4xl w-full flex flex-col items-center gap-10">
           
           {/* Título */}
-          <div className="text-center space-y-3">
-            {/* <p className="text-sm font-medium uppercase tracking-widest text-muted-foreground">
+          {/* <div className="text-center space-y-3">
+            <p className="text-sm font-medium uppercase tracking-widest text-muted-foreground">
               Novidade chegando
-            </p> */}
+            </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground text-balance">
               Instituto Tidelli
             </h1>
-          </div>
+          </div> */}
 
           {/* Banner Horizontal */}
           <div className="w-full max-w-3xl rounded-xl overflow-hidden shadow-lg">
